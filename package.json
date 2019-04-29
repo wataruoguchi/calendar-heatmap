@@ -1,0 +1,26 @@
+{
+  "name": "calendar-heatmap",
+  "version": "0.4.0",
+  "description": "just a package.json based on bower.json",
+  "main": "src/calendar-heatmap.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wataruoguchi/calendar-heatmap.git"
+  },
+  "author": "Wataru Oguchi <wataru.oguchi.0to1@gmail.com> (https://wataruoguchi.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wataruoguchi/calendar-heatmap/issues"
+  },
+  "homepage": "https://github.com/wataruoguchi/calendar-heatmap#readme",
+  "dependencies": {
+    "d3": "^3.5.17",
+    "moment": "^2.24.0"
+  }
+}
